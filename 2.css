@@ -1,0 +1,55 @@
+
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .header{
+            background-color:bisque;
+            padding: 18px;
+            color:black;
+        }
+        .overview{
+            padding: 1em;
+        }
+        .highlights{
+            background-color: rgb(21, 132, 176);
+            padding: 1em;
+        }
+        h2{
+
+            color:black;
+            cursor: pointer;
+        }
+        ul{
+            margin-left: 2em;
+            padding: 1em;
+        }
+        .Qualifications{
+            background-color: rgb(21, 132, 176);
+            color:black;
+            cursor: pointer;
+            padding: 7px;
+        }
+        button{
+            background-color: rgb(21, 132, 176);
+            color: black;
+            border: none;
+            border-radius: 40px;
+            width: 90px;
+            height: 45px;
+            position: relative;
+            top: 0%;
+            left: 47%;
+            cursor: pointer;
+            font-size: 90%;
+        }
+        p{
+            padding: 2px;
+        }
+        .contact{
+            margin-bottom: 100px;
+            background-color: #e7e4e4;
+            text-align: center;
+            padding: 5px;
+            margin-top: 10px;
+        }
